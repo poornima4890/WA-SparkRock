@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-12T11:23:06 AST" name="Default suite" finished-at="2024-06-12T11:23:35 AST" duration-ms="29072">
+    <groups>
+    </groups>
+    <test started-at="2024-06-12T11:23:06 AST" name="Default test" finished-at="2024-06-12T11:23:35 AST" duration-ms="29072">
+      <class name="base.BaseTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:base.BaseTest@20140db9]" started-at="2024-06-12T11:23:06 AST" name="setup" finished-at="2024-06-12T11:23:16 AST" duration-ms="10522" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="rechargePage()[pri:1, instance:base.BaseTest@20140db9]" started-at="2024-06-12T11:23:16 AST" name="rechargePage" finished-at="2024-06-12T11:23:33 AST" duration-ms="16727" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rechargePage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:base.BaseTest@20140db9]" started-at="2024-06-12T11:23:33 AST" name="tearDown" finished-at="2024-06-12T11:23:35 AST" duration-ms="1708" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- base.BaseTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
